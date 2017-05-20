@@ -1,20 +1,31 @@
+var diseaseData = new Array();
+var pillsData = new Array();
+var colors = ["#3366CC","#DC3912","#FF9900","#000000"];
+
+//reading files
 d3.csv("../csv/1.csv", function(data) {
-  console.log(data);
+  diseaseData = data.map((dataObj,i)=>{
+    var entry = new Object();
+    entry.label = dataObj.disease;
+    entry.report = dataObj.report;
+    entry.data = dataObj.count;
+    entry.color = colors[i];
+    return entry;
+  });
+  d3.csv("../csv/2.csv", function(data) {
+    pillsData = data.map((dataObj,i)=>{
+      var entry = new Object();
+      entry.label = dataObj.tab;
+      entry.data = dataObj.tab_sold;
+      entry.color = colors[i];
+      return entry;
+    });
+    drawGraph(diseaseData,pillsData);
+  });
 });
 
-var diseaseData=[
-	{label:"Cold", color:"#3366CC",data:3},
-	{label:"Fever", color:"#DC3912",data:2},
-	{label:"Headache", color:"#FF9900",data:1}
-];
-
-var pillsData=[
-	{label:"Anacin", color:"#3366CC",data:1000},
-	{label:"CPM", color:"#DC3912",data:60910},
-	{label:"Dolo", color:"#FF9900",data:1408},
-	{label:"Vicks", color:"#000000",data:79},
-];
-
+//drawig graph
+function drawGraph(diseaseData,pillsData){
 var svg = d3.select("body").append("svg").attr("width",1000).attr("height",600);
 
 svg.append("g").attr("id","diseaseData");
@@ -37,4 +48,5 @@ function salesData(){
 		svg.append("rect").attr("x", 100).attr("y",temp).attr("width",20).attr("height",20).attr("fill",pillsData[i].color);
 		svg.append("text").attr("x", 130).attr("y",temp+15).attr("width",20).attr("height",20).text(pillsData[i].label);
 		return {label:d.label, value:(d.data*100)/63397, color:d.color};});
+}
 }
