@@ -3,7 +3,7 @@ var pillsData = new Array();
 var colors = ["#3366CC","#DC3912","#FF9900","#000000"];
 
 //reading files
-d3.csv("../csv/1.csv", function(data) {
+d3.csv("../csv/3.csv", function(data) {
   diseaseData = data.map((dataObj,i)=>{
     var entry = new Object();
     entry.label = dataObj.disease;
@@ -12,7 +12,7 @@ d3.csv("../csv/1.csv", function(data) {
     entry.color = colors[i];
     return entry;
   });
-  d3.csv("../csv/2.csv", function(data) {
+  d3.csv("../csv/4.csv", function(data) {
     pillsData = data.map((dataObj,i)=>{
       var entry = new Object();
       entry.label = dataObj.tab;
@@ -26,7 +26,7 @@ d3.csv("../csv/1.csv", function(data) {
 
 //drawig graph
 function drawGraph(diseaseData,pillsData){
-var svg = d3.select("body").append("svg").attr("width",1000).attr("height",600);
+var svg = d3.select("body").append("svg").attr("width",800).attr("height",600);
 
 svg.append("g").attr("id","diseaseData");
 svg.append("g").attr("id","pillsData");
