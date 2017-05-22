@@ -23,7 +23,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -74,7 +75,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -125,7 +127,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -176,7 +179,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -227,7 +231,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -278,7 +283,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -329,7 +335,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -380,7 +387,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -431,7 +439,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -482,7 +491,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -533,7 +543,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -584,7 +595,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -635,7 +647,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -686,7 +699,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -737,7 +751,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -788,7 +803,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -839,7 +855,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -890,7 +907,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -941,7 +959,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -992,7 +1011,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1043,7 +1063,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1094,7 +1115,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1145,7 +1167,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1196,7 +1219,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1247,7 +1271,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1298,7 +1323,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1349,7 +1375,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1400,7 +1427,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1451,7 +1479,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1502,7 +1531,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1553,7 +1583,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1604,7 +1635,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1655,7 +1687,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1706,7 +1739,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1757,7 +1791,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1808,7 +1843,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1859,7 +1895,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1910,7 +1947,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -1961,7 +1999,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -2012,7 +2051,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -2063,7 +2103,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -2114,7 +2155,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -2165,7 +2207,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -2216,7 +2259,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -2267,7 +2311,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -2318,7 +2363,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -2369,7 +2415,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
@@ -2420,7 +2467,8 @@ headache,negative,25
 cold,positive,15
 fever,positive,15
 fever,positive,20
-headache,positive,15fever,negative,30
+headache,positive,15
+fever,negative,30
 cold,negative,15
 headache,negative,25
 cold,positive,25	
