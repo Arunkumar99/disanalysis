@@ -1,9 +1,8 @@
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  width: 960px;
-  height: 500px;
   position: relative;
   background-image:url('../img/ekg-monitor.jpg');
+  color:#000000;
 }
 path.slice{
 	stroke-width:2px;
